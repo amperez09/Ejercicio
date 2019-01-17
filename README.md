@@ -1,0 +1,2 @@
+# Ejercicio
+Ejercicio en Scala
